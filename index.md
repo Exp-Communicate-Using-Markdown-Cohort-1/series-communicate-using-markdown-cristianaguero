@@ -13,3 +13,7 @@ starting to play with markdown
 npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
